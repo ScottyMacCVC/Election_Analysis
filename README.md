@@ -1,38 +1,31 @@
 # Election_Analysis
 
 # Project Overview
-A Colorado Board of Election requested an audtit for a local congressional election. 
+A Colorado Board of Election requested an audtit for a local congressional election. The counties of Araphoe, Denver, & Jefferson all contributed to the total votes. The audit will provide a closer look at the percentage of votes from each county as well as the total from each. Our largest county, Denver, will own the vast majority of the votes. Jefferson vote count was 38,855 or 10.5% of the vote, Denver received 306,055 or 6.7% of the vote, and Araphoe recieved 24,801 or 6.7% of the overall vote. 
 
-1 Calc the total number of votes cast
-2 get a complete list of candidates who received votes
-3 calc the total number of votes each candidate received
-4 calc the % of votes each candidate won
-5 determine the winner of the election based on popular vote
+The total number of votes was 369,711. Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane shared the vote count. Stockham received 85,213 votes or 23.0% of the votes, DeGette received the lions share at 272,892 votes or 73.8%, and our third place is Doane with 11,606 votes or 3.1% of the overall votes. The election was decidedly Diane DeGette for the local congressional election winner. 
 
 ## Resources
 -Data Source: election_results.csv
--Software: Python 3.6.7. Visual Studio Code, 1.38.1
+-Software: Python 3.7.6. Visual Studio Code, 1.38.1
 
 ## Summary
 The analysis of the the election show that:
-- There were "x" votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were:
-    -Candidate 1
-    -Candidate 2
-    -Candidate 3
+    -Charles Casper Stockham
+    -Diana DeGette
+    -Raymon Anthony Doane
 -The candidate results were:
-    -Candidate 1 received "x%" of the vote and "y" number of votes
-    -Candidate 2
-    -Candidate 3
+    -Charles Casper Stockham received 85,213 or 23% of the overall vote
+    -Diana DeGette received 272,892 or 73.8% of the overall vote
+    -Raymon Anthony Doane received 24,801 or 6.7% of the overall vote
 - The winner of the election was:
-     - Candidate (1,2,3) who received "x%" of the vote and "y" number of votes
+    -Diana DeGette received 272,892 or 73.8% of the overall vote
 
-## Challenges Overview
+- **Using Script for Future Elections**
+-- The script can be used for any election. The Election Commmission should consider the utility of the tool, ease of distribution, and uniformity of statistics. The tool can be used for any elected position. At little costs, we can deliver the tool to the specific elector and they will be able to replicate our election formatting. 
 
-- **Challenge 1**
--- There is a statement to the election commission that explores how this script can be used for any election. 
+- **Modifying the Script Examples**
+-- We hope to see the script in the future. So long as the csv file is built in a similar fashion to our current model, we can update the county names for another district with new candidates, or, change the candidate names and use the same districts. The base concept is a set of votes counted, a location in the world, and a set of outcomes. We could be voting on a measure for a city where we count the ballot numbers, for the city we want to implement change, and the outcomes of the potential change. 
 
-- **Challenge 2**
--- with two examples for modifying the script - Update the county names for another district with new candidates, or, change the candidate names and use the same districts. 
-
-## Challenges Summary
