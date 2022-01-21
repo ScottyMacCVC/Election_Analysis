@@ -8,7 +8,9 @@ The counties involved with the election:
 - Jefferson - 38,855 votes or 10.5% of the vote
 
 The county with the largest turnout was:
-- Denver with 306,055 votes or 82.8% of the vote
+- Denver with 306,055 votes or 82.8% of the vote count
+
+---
 
 The total number of votes was 369,711. Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane shared the vote count. Stockham received 85,213 votes or 23.0% of the votes, DeGette received the lions share at 272,892 votes or 73.8%, and our third place is Doane with 11,606 votes or 3.1% of the overall votes. The election was, decidedly, Diane DeGette for the local congressional elected position. 
 
