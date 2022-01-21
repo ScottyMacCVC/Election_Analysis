@@ -23,6 +23,8 @@ The candidate results were:
 The winner of the election was:
     -Diana DeGette received 272,892 or 73.8% of the overall vote
     
+### ![Election Results](https://github.com/ScottyMacCVC/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) 
+    
 ---
 
 - **Using Script for Future Elections**
