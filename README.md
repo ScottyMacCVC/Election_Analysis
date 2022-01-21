@@ -5,10 +5,6 @@ A Colorado Board of Election requested an audit for a local congressional electi
 
 The total number of votes was 369,711. Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane shared the vote count. Stockham received 85,213 votes or 23.0% of the votes, DeGette received the lions share at 272,892 votes or 73.8%, and our third place is Doane with 11,606 votes or 3.1% of the overall votes. The election was, decidedly, Diane DeGette for the local congressional elected position. 
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.7.6. Visual Studio Code, 1.38.1
-
 ## Summary
 The analysis of the the election show that:
 - There were 369,711 votes cast in the election.
@@ -33,3 +29,6 @@ The winner of the election was:
 - **Modifying the Script Examples**
 -- We hope to see the script in the future. So long as the csv file is built in a similar fashion to our current model, we can update the county names for another district with new candidates, or, change the candidate names and use the same districts. The base concept is a set of votes counted, a location in the world, and a set of outcomes. We could be voting on a measure for a city where we count the ballot numbers, for the city we want to implement change, and the outcomes of the potential change. 
 
+## Resources
+- Data Source: election_results.csv
+- Software: Python 3.7.6. Visual Studio Code, 1.38.1
