@@ -36,7 +36,7 @@ The winner of the election was:
 ---
 
 - **Using Script for Future Elections**
--- The script can be used for any election. The Election Commmission should consider the utility of the tool, ease of distribution, and uniformity of statistics. The tool can be used for any elected position. At little costs, we can deliver the tool to the specific election committee and they will be able to replicate our election formatting. 
+-- The script can be used for any election. The Election Commmission should consider the utility of the tool, ease of distribution, and uniformity of statistics. At little costs, we can deliver the tool to the specific election committee and they will be able to replicate our election formatting. 
 
 - **Modifying the Script Examples**
 -- We hope to see the script in the future. So long as the csv file is built in a similar fashion to our current model, we can update the county names for another district with new candidates, or, change the candidate names and use the same districts. The base concept is a set of votes counted, a location in the world, and a set of outcomes. We could be voting on a measure for a city where we count the ballot numbers, for the city we want to implement change, and the outcomes of the potential change. 
