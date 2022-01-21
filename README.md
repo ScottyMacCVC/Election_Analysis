@@ -1,7 +1,7 @@
 # Election_Analysis
 
 # Project Overview
-A Colorado Board of Election employee has give you the following taskt o compplete the election audit of a recent local congressional election
+A Colorado Board of Election requested an audtit for a local congressional election. 
 
 1 Calc the total number of votes cast
 2 get a complete list of candidates who received votes
@@ -30,9 +30,9 @@ The analysis of the the election show that:
 ## Challenges Overview
 
 - **Challenge 1**
--- Challenge 1 info 
+-- There is a statement to the election commission that explores how this script can be used for any election. 
 
 - **Challenge 2**
--- Challenge 2 info
+-- with two examples for modifying the script - Update the county names for another district with new candidates, or, change the candidate names and use the same districts. 
 
 ## Challenges Summary
