@@ -2,6 +2,10 @@
 
 A Colorado Board of Election requested an audit for a local congressional election. The counties of Araphoe, Denver, & Jefferson all contributed to the total votes. The audit will provide a closer look at the percentage of votes from each county as well as the total from each. Our largest county, Denver, will own the vast majority of the votes. Jefferson vote count was 38,855 or 10.5% of the vote, Denver received 306,055 or 6.7% of the vote, and Araphoe recieved 24,801 or 6.7% of the overall vote. 
 
+The counties involved with the election:
+- Araphoe
+- Denver
+- Jefferson
 
 The total number of votes was 369,711. Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane shared the vote count. Stockham received 85,213 votes or 23.0% of the votes, DeGette received the lions share at 272,892 votes or 73.8%, and our third place is Doane with 11,606 votes or 3.1% of the overall votes. The election was, decidedly, Diane DeGette for the local congressional elected position. 
 
