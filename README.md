@@ -21,6 +21,8 @@ The analysis of the the election show that:
     -Raymon Anthony Doane received 24,801 or 6.7% of the overall vote
 - The winner of the election was:
     -Diana DeGette received 272,892 or 73.8% of the overall vote
+    
+---
 
 - **Using Script for Future Elections**
 -- The script can be used for any election. The Election Commmission should consider the utility of the tool, ease of distribution, and uniformity of statistics. The tool can be used for any elected position. At little costs, we can deliver the tool to the specific election committee and they will be able to replicate our election formatting. 
