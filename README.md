@@ -1,5 +1,8 @@
 # Election Analysis for Congressional Election
-The Colorado Board of Election requested an audit for a local congressional election. The counties of Araphoe, Denver, & Jefferson all contributed to the total votes. The audit will provide a closer look at the percentage of votes from each county as well as the total from each. Our largest county, Denver, will own the vast majority of the votes. Jefferson vote count was 38,855 or 10.5% of the vote, Denver received 306,055 or 82.8% of the vote, and Araphoe recieved 24,801 or 6.7% of the overall vote. 
+
+## We will use Python to analyze a local election. The analysis will include county and candidate information in a summarized format. 
+
+### The Colorado Board of Election requested an audit for a local congressional election. The counties of Araphoe, Denver, & Jefferson all contributed to the total votes. The audit will provide a closer look at the percentage of votes from each county as well as the total from each. Our largest county, Denver, will own the vast majority of the votes. Jefferson vote count was 38,855 or 10.5% of the vote, Denver received 306,055 or 82.8% of the vote, and Araphoe recieved 24,801 or 6.7% of the overall vote. 
 
 The counties involved with the election:
 - Araphoe - 24,801 votes or 6.7% of the vote
